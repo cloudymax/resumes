@@ -1,0 +1,19 @@
+Please prepare short presentation, for which you can find the brief below: 
+
+FedEx has an opportunity to build a new product named "ShipGreenWithFedEx" for a major clothes retailer - this will generate a significant amount of revenue for FedEx.
+
+The solution will give users shopping online the ability to ship using carbon neutral logistics services with FedEx. 
+The business requires IT to build a number public facing APIs with integration into FedEx back end systems. 
+The front end will be developed by the clothes retailer. 
+Internally, the Vice President responsible for the development of the solution has asked the infrastructure teams to propose:
+a reference architecture for the solution, 
+a team structure, 
+and ways of working.
+
+Your challenge is to give a 15-minute presentation/proposal covering at least the following items:
+
+- Why using public cloud for the solution is advantageous to FedEx
+- A cross-functional team structure to deliver the entire solution 
+- A target architecture for the solution (hosted in Microsoft Azure)
+- A set of principles that will guide the team throughout the delivery of the solution
+

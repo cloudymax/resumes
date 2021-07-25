@@ -1,0 +1,30 @@
+what is carbon neutrality
+https://www.youtube.com/watch?v=9pPsso2acew
+
+1. mitigation
+2. efficiancy
+3. electricy from renewables
+4. carbon credits
+
+cloud computing and your carbon footprint
+https://www.youtube.com/watch?v=mzeST7rB0i8
+IT is responsible for 2% of all global carbon emmisions, same as aviation industry
+
+infographic
+https://climatecare.org/infographic-the-carbon-footprint-of-the-internet/
+
+
+green data centers
+https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/
+
+
+sustainability calculator
+https://appsource.microsoft.com/en-us/product/power-bi/coi-sustainability.sustainability_dashboard?tab=overview
+
+power-bi
+https://powerbi.microsoft.com/en-us/power-bi-pro/
+
+API Service + Swagger + Azure Insights + Azure Monitor + Azure AutoScale + Azure FrontDoor
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api
+
+Python + FastAPI REST APIs 
